@@ -358,7 +358,7 @@ export default function Home() {
                   Akad : 09.00
                 </p>
                 <p style={{ fontSize: "clamp(0.88rem, 3.2vw, 1.05rem)", color: "var(--army-light)", fontWeight: 600 }}>
-                  Resepsi : 11.00
+                  Resepsi : 11.00 - 14.00
                 </p>
               </div>
               <div style={{ width: 80, height: 1, background: "linear-gradient(90deg, transparent, var(--navy-light), transparent)", margin: "6px auto" }} />
